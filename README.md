@@ -1,2 +1,2 @@
-# Agenda-Web
-Estudo sobre Java EE com Servlet, JSP, Java EE, Taglib, Filtros e JDBC, a partir da apostila do curso fj21 da Caelum. 
+# Agenda
+ Códigos gerados a partir do curso de Java para Desenvolvimento Web (FJ-21) da Caelum
